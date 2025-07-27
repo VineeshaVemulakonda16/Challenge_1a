@@ -32,7 +32,7 @@ def main():
             try:
                 reader = PdfReader(pdf_path)
             except Exception as e:
-                print(f"⚠️ Error reading {filename}: {e}")
+                print(f" Error reading {filename}: {e}")
                 continue
 
             title = get_pdf_title(reader)
@@ -49,7 +49,7 @@ def main():
                             "page": i + 1
                         })
                 except Exception as e:
-                    print(f"⚠️ Failed to read page {i+1} of {filename}: {e}")
+                    print(f" Failed to read page {i+1} of {filename}: {e}")
 
             output_json = {
                 "title": title,
@@ -60,7 +60,7 @@ def main():
             with open(output_path, 'w', encoding='utf-8') as f:
                 json.dump(output_json, f, indent=2, ensure_ascii=False)
 
-            print(f"✅ Done: {output_path}")
+            print(f" Done: {output_path}")
 
 if __name__ == "__main__":
     main()
