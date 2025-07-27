@@ -1,0 +1,2430 @@
+{
+  "title": "Untitled PDF",
+  "outline": [
+    {
+      "level": "1",
+      "text": "2024",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "BWMO-No. 1368",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "© World Meteorological Organization, 2025",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "Chair, Publications Board",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "World Meteorological Organization (WMO)",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "P.O. Box 2300 Email: publications@wmo.int",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "CH-1211 Geneva 2, Switzerland",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "ISBN 978-92-63-11368-5",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "iContents",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "Temperature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "Precipitation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "Endnotes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "We need your feedback",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "is highly appreciated.",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "iiThe annually averaged global mean near-surface",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "and the planet.",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "around the world.",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "warning systems. This must change.",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "of key climate indicators.Foreword",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "(Prof. Celeste Saulo)",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "Secretary-General",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "1KEY MESSAGES",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "STATE OF THE INDICATOR",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "El Niño–Southern O scillation ).",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "Key indicator",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "Atmospheric carbon dioxide",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "1990  2000  2010  2020ppm 420",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "410",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "400",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "390",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "380",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "370",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "360",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "350",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "Year",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "increase in 2024.",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "INDICATOR BACKGROUND",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "and the ocean.",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "to biomass burning.",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "Atmospheric CO2",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "Enhanced",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "Greenhouse",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "EﬀectOcean",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "AcidiﬁcationVariation in",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "Crop",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "ProductivityChanges to",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "Nutrient",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "ContentAir Pollution",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "Food",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "Insecurity",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "3KEY MESSAGES",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "the 1850–1900 average.",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "the ten warmest years on record.",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "STATE OF THE INDICATOR",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "Global mean near-surface",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "temperature",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "Year1.5",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "1.0",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "0.5",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "0.0",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "–0.5°CBerkeley Earth (1850–2024.12)",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "ERA5 (1940–2024.12)",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "GISTEMP (1880–2024.12)",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "HadCRUT5 (1850–2024.12)",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "JRA-3Q (1947–2024.12)",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "NOAAGlobalTemp v6 (1850–2024.12)",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "INDICATOR BACKGROUND",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Decline in",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Agricultural",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "and Fishing",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Yields",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "DisplacementWater",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Scarcity",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "ConﬂictsGlobal Mean Surface Temperature",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Reinforced by extreme",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "events (e.g. ﬂood, drought,",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "heatwaves, and wildﬁres)",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Increase Greenhouse Gas",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Release and Additional",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Greenhouse EﬀectBuilt",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Infrastructure",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "DegradationPermafrost",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "ThawingBiodiversity",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Changes and Losses",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Species",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "ExtinctionGlobal",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Health",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Issues",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Food",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "InsecurityReduced",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Livelihoods",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "5KEY MESSAGES",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "STATE OF THE INDICATOR",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "3.1–3.9 ZJ per year).",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Ocean heat content",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Year200",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "150",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "100",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "50",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "0",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "–50",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "–100",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "–150",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "–200",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "–250",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "–300OHC (ZJ)Cheng et al., 2024",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Copernicus",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Miniere et al., 2023",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "6INDICATOR BACKGROUND",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Coral Bleaching",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "ConﬂictDeoxygenationReinforced by Marine",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "HeatwavesOcean Heat Content",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Higher",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Greenhouse Gas",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Concentration",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "and Greenhouse",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "EﬀectAlgae Bloom and",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "EutrophicationGreater",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Ocean",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Stratiﬁcation",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Barriers to",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Nutrient",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "ContentHabitat",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "DegradationNatural",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Heritage Loss",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Tourism",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Losses",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Reduced",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "LivelihoodsFood",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "InsecurityReduced",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Fishing YieldsBiodiversity",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Changes and",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Losses",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "7KEY MESSAGES",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "(from 1993 to present).",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "(1993–2002).",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "STATE OF THE INDICATOR",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "Global mean sea level",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "Year120",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "110",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "100",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "90",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "80",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "70",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "60",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "50",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "40",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "30",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "20",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "10",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "0",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "–10Sea level change (mm)",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "INDICATOR BACKGROUND",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "ConﬂictsBiodiversity",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "Changes and LossesReinforced by extreme",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "sea-level rise events",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "(e.g. wind-driven storm surge)",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "Built",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "Infrastructure",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "Degradation",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "Food",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "InsecurityReduced",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "LivelihoodsSoil and",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "Water",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "Salinization",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "DisplacementSea-Level Rise",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "Coastal Erosion and Flooding",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "9KEY MESSAGES",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "STATE OF THE INDICATOR",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "Ocean pH",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "uncertainty range.",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "Year8.13",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "8.12",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "8.1 1",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "8.10",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "8.09",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "8.08",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "8.07",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "8.06",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "8.05",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "8.04",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "8.03pH",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "10INDICATOR BACKGROUND",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "on centennial to millennial time scales.17",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "of thermal tolerance.18",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "Development Goal (SDG) 14 .",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "Food",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "InsecurityVariation inOcean acidiﬁcation",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "Reduced",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "livelihoods",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "ConﬂictsNatural",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "heritageTourismCoral",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "formationMarine food",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "web alterationFishing",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "yields",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "Marine shell and",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "skeletal formation",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "11KEY MESSAGES",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "Svalbard and the tropical Andes.",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "STATE OF THE INDICATOR",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "mass balance worldwide (Figure 6).",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "to –1.1 metres water equivalent.",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "Glacier mass balance",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "Year5",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "0",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "–5",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "–10",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "–15",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "–20",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "–25Metres water equivalent",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "12INDICATOR BACKGROUND",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "of the glacier break off.",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Antarctica (8%).21",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "confidence )”.22",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Water",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Scarcity and",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "PollutionReduced",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Ocean",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Sink",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "CapacityChanging",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Global",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Weather",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "PatternsMelting of",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Freshwater",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "ResourcesLandslides,",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Mudslides,",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "AvalanchesBiodiversity",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Changes",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "and LossesLoss of",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Natural HeritageWeakened",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Ocean",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Thermohaline",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Circulation",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Species",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "ExtinctionReduced",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Agricultural YieldsTourism",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "LossesFlooding",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "Built Infrastructure",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "DegradationGlacial Mass Balance",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "13KEY MESSAGES",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "in the past 18 years.",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "STATE OF THE INDICATOR",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "Sea-ice extent",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "Year2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "1",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "0",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "–1",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "–2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "–3million km2Arctic sea-ice extent 1979–2024",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "(diﬀerence from 1991–2020 average)",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "1",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "0",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "–1",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "–2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "–3million km2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "Year",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "NSIDC OSI SAF v.2.2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "INDICATOR BACKGROUND",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "shift in Antarctic sea ice.24,25",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Changing",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Surface",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Albedo",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "New",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Transportation",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Routes",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Water",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "PollutionSea-ice extent",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Biodiversity",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Changes",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "and Losses",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Species",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "ExtinctionConﬂict",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Over",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "ResourcesOverﬁshing",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "and HuntingEcosystem and",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Habitat Degradation",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Enhanced",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Radiative",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Forcing",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Food",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "InsecurityAccess to Commercial",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "and Resource Exploitation",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Hunting",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Grounds and",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Food Stocks",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Reduced",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Livelihoods",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "15KEY MESSAGES",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "late 2020 to early 2023.",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "STATE OF EL NINO-SOUTHERN OSCILLATION (ENSO)",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "El Niño–Southern Oscillation",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "Drier tendency",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "Wetter tendencyJan–Mar",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "Jan–Apr",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "Jan–Apr",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "Jan–FebAll year",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "Mar–May",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "Jan–FebJan–Apr",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "Jan–AprJan–Mar",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "Jan–MarAll yearMar–May",
+      "page": 19
+    },
+    {
+      "level": "1",
+      "text": "DRIVER BACKGROUND",
+      "page": 20
+    },
+    {
+      "level": "1",
+      "text": "and cold spells.",
+      "page": 20
+    },
+    {
+      "level": "1",
+      "text": "higher sea-surface temperatures.",
+      "page": 20
+    },
+    {
+      "level": "1",
+      "text": "updates .",
+      "page": 20
+    },
+    {
+      "level": "1",
+      "text": "17TEMPERATURE",
+      "page": 21
+    },
+    {
+      "level": "1",
+      "text": "eastern Asia.",
+      "page": 21
+    },
+    {
+      "level": "1",
+      "text": "the equator.Global patterns of",
+      "page": 21
+    },
+    {
+      "level": "1",
+      "text": "temperature and precipitation",
+      "page": 21
+    },
+    {
+      "level": "1",
+      "text": "global temperature datasets.",
+      "page": 21
+    },
+    {
+      "level": "1",
+      "text": "18PRECIPITATION",
+      "page": 22
+    },
+    {
+      "level": "1",
+      "text": "Green areas are unusually wet.",
+      "page": 22
+    },
+    {
+      "level": "1",
+      "text": "<10%Dry",
+      "page": 22
+    },
+    {
+      "level": "1",
+      "text": "<20%Wet",
+      "page": 22
+    },
+    {
+      "level": "1",
+      "text": ">80%Very wet",
+      "page": 22
+    },
+    {
+      "level": "1",
+      "text": ">90%",
+      "page": 22
+    },
+    {
+      "level": "1",
+      "text": "and the interactive extremes map .",
+      "page": 23
+    },
+    {
+      "level": "1",
+      "text": "El Niño conditions.",
+      "page": 23
+    },
+    {
+      "level": "1",
+      "text": "Amazon was the largest since 2010.",
+      "page": 24
+    },
+    {
+      "level": "1",
+      "text": "the extreme heat.",
+      "page": 24
+    },
+    {
+      "level": "1",
+      "text": "a specific definition.",
+      "page": 25
+    },
+    {
+      "level": "1",
+      "text": "Forster et al., 202453).Monitoring global temperature",
+      "page": 25
+    },
+    {
+      "level": "1",
+      "text": "for the Paris Agreement",
+      "page": 25
+    },
+    {
+      "level": "1",
+      "text": "21",
+      "page": 25
+    },
+    {
+      "level": "1",
+      "text": "in extremes and risks becoming larger.",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "1.25 °C",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "1.37 °C",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "1.41 °C",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "1.34 °C",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "1.0 °C",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "1.5 °C",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "2.0 °CCurrent warming 2024 method 1",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "Average of previous 10 years and",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "projected next 10 years, 2015–2034",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "Current warming 2024 method 2",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "Statistical smoothing to 2024",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "Current warming 2024 method 3",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "Human contribution to warming in 2024",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "IPCC AR6 method warming at 2019",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "Average of previous 10 years, 2015–2024",
+      "page": 26
+    },
+    {
+      "level": "1",
+      "text": "anomalies in 2023/2024: Towards",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "understanding the influencing factors",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "23Annual global mean temperature anomalies",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "and smoothed trend(a)",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "1.5",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "1.0",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.5",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.0°C",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "2023 residual components (b)",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "El Niño",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "Shipping",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "aerosolsEast Asian",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "aerosolsHunga",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "TongaSolar",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "cycleCombined",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.09 °C ± 0.13 °C Actual",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.18° C0.4",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.3",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.2",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.1",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.0",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "–0.1°C",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "2024 residual components (d)",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "El Niño",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "Shipping",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "aerosols",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "East Asian",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "aerosolsHunga",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "TongaSolar",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "cycleCombined",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.23 °C ± 0.14 °C",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "Actual",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.26 °C0.4",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.3",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.2",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.1",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.0",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "–0.1°C",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.1",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "0.0",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "–0.1",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "–0.2",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "YearAnnual global mean temperature",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "20-year loess smoothed",
+      "page": 27
+    },
+    {
+      "level": "1",
+      "text": "the pre-industrial period.",
+      "page": 28
+    },
+    {
+      "level": "1",
+      "text": "sophisticated studies are undertaken.",
+      "page": 28
+    },
+    {
+      "level": "1",
+      "text": "24",
+      "page": 28
+    },
+    {
+      "level": "1",
+      "text": "25BASELINES",
+      "page": 29
+    },
+    {
+      "level": "1",
+      "text": "GREENHOUSE GAS DATA",
+      "page": 29
+    },
+    {
+      "level": "1",
+      "text": "and 270.1 ppb for N2O.55",
+      "page": 29
+    },
+    {
+      "level": "1",
+      "text": "Data and analysis from:",
+      "page": 29
+    },
+    {
+      "level": "1",
+      "text": "kishou.go.jp/",
+      "page": 29
+    },
+    {
+      "level": "1",
+      "text": "Geneva, 2024.",
+      "page": 29
+    },
+    {
+      "level": "1",
+      "text": "GLOBAL TEMPERATURE DATA",
+      "page": 29
+    },
+    {
+      "level": "1",
+      "text": "GLOBAL MEAN TEMPERATURE SERIES",
+      "page": 29
+    },
+    {
+      "level": "1",
+      "text": "each dataset:",
+      "page": 30
+    },
+    {
+      "level": "1",
+      "text": "ANNUAL TEMPERATURE MAPS",
+      "page": 30
+    },
+    {
+      "level": "1",
+      "text": "GLOBAL MEAN TEMPERATURE ANOMALIES FOR 2024 RELATIVE TO OTHER PERIODS",
+      "page": 30
+    },
+    {
+      "level": "1",
+      "text": "Period 1850–1900 1981–2010 1991–2020 1961–1990",
+      "page": 30
+    },
+    {
+      "level": "1",
+      "text": "HadCRUT5 1.52 0.83 0.63 1.17",
+      "page": 30
+    },
+    {
+      "level": "1",
+      "text": "NOAA GlobalTemp 1.53 0.84 0.66 1.15",
+      "page": 30
+    },
+    {
+      "level": "1",
+      "text": "GISTEMP 1.55 0.86 0.67 1.18",
+      "page": 30
+    },
+    {
+      "level": "1",
+      "text": "Berkeley Earth 1.54 0.85 0.65 1.20",
+      "page": 30
+    },
+    {
+      "level": "1",
+      "text": "ERA5 1.60 0.91 0.72 1.24",
+      "page": 30
+    },
+    {
+      "level": "1",
+      "text": "JRA-3Q 1.57 0.88 0.69 1.21",
+      "page": 30
+    },
+    {
+      "level": "1",
+      "text": "Berkeley Earth: Rohde, R. A.; Hausfather, Z. The Berkeley Earth Land/Ocean Temperature Record. Earth",
+      "page": 31
+    },
+    {
+      "level": "1",
+      "text": "org/10.1029/2018JD029522 .",
+      "page": 31
+    },
+    {
+      "level": "1",
+      "text": "2025. https://doi.org/10.25921/rzxg-p717 .",
+      "page": 31
+    },
+    {
+      "level": "1",
+      "text": "And two reanalyses:",
+      "page": 31
+    },
+    {
+      "level": "1",
+      "text": "https://doi.org/10.24381/cds.f17050d7 .",
+      "page": 31
+    },
+    {
+      "level": "1",
+      "text": "jmsj.2024-004 .",
+      "page": 31
+    },
+    {
+      "level": "1",
+      "text": "IPCC used an additional dataset:",
+      "page": 31
+    },
+    {
+      "level": "1",
+      "text": "s41561-020-0582-5 .",
+      "page": 31
+    },
+    {
+      "level": "1",
+      "text": "OCEAN HEAT CONTENT DATA",
+      "page": 31
+    },
+    {
+      "level": "1",
+      "text": "essd-16-3517-2024 .",
+      "page": 31
+    },
+    {
+      "level": "1",
+      "text": "org/10.1038/s41598-023-49353-1 .",
+      "page": 32
+    },
+    {
+      "level": "1",
+      "text": "SEA-LEVEL DATA",
+      "page": 32
+    },
+    {
+      "level": "1",
+      "text": "mean-sea-level/data-acces.html#c12195 .",
+      "page": 32
+    },
+    {
+      "level": "1",
+      "text": "OCEAN pH DATA",
+      "page": 32
+    },
+    {
+      "level": "1",
+      "text": "GLACIER DATA",
+      "page": 32
+    },
+    {
+      "level": "1",
+      "text": "Switzerland. https://doi.org/10.5904/wgms-fog-2024-01 .",
+      "page": 32
+    },
+    {
+      "level": "1",
+      "text": "SEA-ICE DATA",
+      "page": 32
+    },
+    {
+      "level": "1",
+      "text": "Application Facility figures for 2024",
+      "page": 32
+    },
+    {
+      "level": "1",
+      "text": "Metric NSIDC OSI SAF",
+      "page": 32
+    },
+    {
+      "level": "1",
+      "text": ".5194/  tc -13 -49 -2019 .",
+      "page": 33
+    },
+    {
+      "level": "1",
+      "text": "PRECIPITATION DATA",
+      "page": 33
+    },
+    {
+      "level": "1",
+      "text": "_V2022 _100",
+      "page": 33
+    },
+    {
+      "level": "1",
+      "text": "ENSO MAP",
+      "page": 33
+    },
+    {
+      "level": "1",
+      "text": "sources, including:",
+      "page": 33
+    },
+    {
+      "level": "1",
+      "text": "Agroclimatology Fact Sheet Series; Vol. 1; 2020.",
+      "page": 33
+    },
+    {
+      "level": "1",
+      "text": "30SIDE BAR –",
+      "page": 34
+    },
+    {
+      "level": "1",
+      "text": "GLOBAL MEAN SURFACE TEMPERATURE ANOMALIES IN 2023/2024:",
+      "page": 34
+    },
+    {
+      "level": "1",
+      "text": "TOWARDS UNDERSTANDING THE INFLUENCING FACTORS",
+      "page": 34
+    },
+    {
+      "level": "1",
+      "text": "31CONTRIBUTING MEMBERS",
+      "page": 35
+    },
+    {
+      "level": "1",
+      "text": "Algeria, Argentina, Armenia, Australia, Azerbaijan, Bahrain, Bangladesh, Barbados, Belgium,",
+      "page": 35
+    },
+    {
+      "level": "1",
+      "text": "Egypt, El Salvador, Estonia, Eswatini, Finland, France, Germany, Ghana, Greece, Guatemala,",
+      "page": 35
+    },
+    {
+      "level": "1",
+      "text": "Italy, Japan, Kazakhstan, Kenya, Latvia, Libya, Lithuania, Macao, China; Malawi, Malaysia, Mali,",
+      "page": 35
+    },
+    {
+      "level": "1",
+      "text": "Saudi Arabia, Senegal, Serbia, Singapore, Slovakia, Slovenia, South Africa, Sudan, Sweden,",
+      "page": 35
+    },
+    {
+      "level": "1",
+      "text": "States of America, Uruguay",
+      "page": 35
+    },
+    {
+      "level": "1",
+      "text": "UN AGENCIES",
+      "page": 35
+    },
+    {
+      "level": "1",
+      "text": "INSTITUTIONS AND DATA PROVIDERS",
+      "page": 35
+    },
+    {
+      "level": "1",
+      "text": "Service (WGMS)List of contributors",
+      "page": 35
+    },
+    {
+      "level": "1",
+      "text": "32SECTION AUTHORS",
+      "page": 36
+    },
+    {
+      "level": "1",
+      "text": "Spatiales (LEGOS)), Lancelot Leclerq (LEGOS)",
+      "page": 36
+    },
+    {
+      "level": "1",
+      "text": "Sea-ice extent  – Shawn Marshall (ECCC)",
+      "page": 36
+    },
+    {
+      "level": "1",
+      "text": "John Kennedy (WMO)",
+      "page": 36
+    },
+    {
+      "level": "1",
+      "text": "(IDMC), Sylvain Ponserre (IDMC)",
+      "page": 36
+    },
+    {
+      "level": "1",
+      "text": "Zeke Hausfather, (Stripe, Inc.)",
+      "page": 36
+    },
+    {
+      "level": "1",
+      "text": "33REVIEWERS",
+      "page": 37
+    },
+    {
+      "level": "1",
+      "text": "Robert Vautard (IPCC)",
+      "page": 37
+    },
+    {
+      "level": "1",
+      "text": "WMO PROGRAMME COORDINATION",
+      "page": 37
+    },
+    {
+      "level": "1",
+      "text": "org/10.1017/97 81009157896 .",
+      "page": 38
+    },
+    {
+      "level": "1",
+      "text": "https://doi.org/10.5194/ess d-2024-519 .",
+      "page": 38
+    },
+    {
+      "level": "1",
+      "text": "org/10.1017/97 81009157896 .",
+      "page": 38
+    },
+    {
+      "level": "1",
+      "text": "org/10.1017/9781 009157896 .",
+      "page": 38
+    },
+    {
+      "level": "1",
+      "text": "doi.org/10.5194/os-1 2-1165-2016 .",
+      "page": 38
+    },
+    {
+      "level": "1",
+      "text": "1551–1590. https://doi.org/10.5194/essd-1 0-1551-2018 .",
+      "page": 38
+    },
+    {
+      "level": "1",
+      "text": "https://doi.org/10.1017/97 81009325844 .",
+      "page": 38
+    },
+    {
+      "level": "1",
+      "text": "org/10.1017/97 81009157896 .",
+      "page": 38
+    },
+    {
+      "level": "1",
+      "text": "sp-4-os r8-1-2024 .",
+      "page": 38
+    },
+    {
+      "level": "1",
+      "text": "https://doi.org/10.5194/es sd-2024-519 .Endnotes",
+      "page": 38
+    },
+    {
+      "level": "1",
+      "text": "USA. https://doi.org/10.1017/978100 9157896.001 .",
+      "page": 39
+    },
+    {
+      "level": "1",
+      "text": "org/10.1017/978100 9157964.007 .",
+      "page": 39
+    },
+    {
+      "level": "1",
+      "text": "1551–1590. https://doi.org/10.5194/essd-1 0-1551-2018 .",
+      "page": 39
+    },
+    {
+      "level": "1",
+      "text": "USA, 2021. https://doi.org/10.1017/978100 9157896.001 .",
+      "page": 39
+    },
+    {
+      "level": "1",
+      "text": "https://www.newscientist.com/articl e/2447700 .",
+      "page": 39
+    },
+    {
+      "level": "1",
+      "text": "southwest-monsoon-27-sept ember-2024/",
+      "page": 39
+    },
+    {
+      "level": "1",
+      "text": "beyond -displacing",
+      "page": 39
+    },
+    {
+      "level": "1",
+      "text": "december-2024",
+      "page": 39
+    },
+    {
+      "level": "1",
+      "text": "42  EM-DAT",
+      "page": 40
+    },
+    {
+      "level": "1",
+      "text": "drought .",
+      "page": 40
+    },
+    {
+      "level": "1",
+      "text": "48  EM-DAT",
+      "page": 40
+    },
+    {
+      "level": "1",
+      "text": "org/10.5194/essd-16-2625-2024 .",
+      "page": 40
+    },
+    {
+      "level": "1",
+      "text": "org/10.1017/97 81009157896 .",
+      "page": 40
+    },
+    {
+      "level": "1",
+      "text": "https://doi.org/10.1029/202 4EF005011 .",
+      "page": 40
+    },
+    {
+      "level": "1",
+      "text": "s43247- 024-01442-3 .",
+      "page": 41
+    },
+    {
+      "level": "1",
+      "text": "gmd-14- 3007-2021 .",
+      "page": 41
+    },
+    {
+      "level": "1",
+      "text": "For more information, please contact:",
+      "page": 42
+    },
+    {
+      "level": "1",
+      "text": "World Meteorological Organization",
+      "page": 42
+    },
+    {
+      "level": "1",
+      "text": "Strategic Communications Office",
+      "page": 42
+    },
+    {
+      "level": "1",
+      "text": "Cabinet Office of the Secretary-General",
+      "page": 42
+    },
+    {
+      "level": "1",
+      "text": "Tel: +41 (0) 22 730 83 14 – Fax: +41 (0) 22 730 80 27",
+      "page": 42
+    },
+    {
+      "level": "1",
+      "text": "Email: cpa@wmo.int",
+      "page": 42
+    },
+    {
+      "level": "1",
+      "text": "wmo.int",
+      "page": 42
+    },
+    {
+      "level": "1",
+      "text": "JN 24389",
+      "page": 42
+    }
+  ]
+}
